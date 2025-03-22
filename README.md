@@ -10,7 +10,7 @@ I am an eager and motivated beginner programmer with a strong passion for learni
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,mysql,git,angular" height="40" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,mysql,git" height="40" alt="Tech Stack Icons" />
 </div>
 
 ###
